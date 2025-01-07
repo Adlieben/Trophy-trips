@@ -1,4 +1,4 @@
-# Trophy-trips
+# Trophy Trips
 
 Here is code for mapping the location of major football trophies in England, Spain, Germany and Italy. Everything was created in R using [R Studio](https://posit.co/download/rstudio-desktop/). If you have any questions or issues related to the code, feel free to reach out to me. The code is very extensively commented, both to make the steps clearer and to avoid an error on my side.
 
